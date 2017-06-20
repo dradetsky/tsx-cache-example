@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "module": "commonjs",
+    "noImplicitAny": true,
+    "outDir": "./public/",
+    "preserveConstEnums": true,
+    "removeComments": true,
+    "target": "ES6",
+    "_skipLibCheck": true
+  }
+}
