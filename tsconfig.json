@@ -7,6 +7,6 @@
     "preserveConstEnums": true,
     "removeComments": true,
     "target": "ES6",
-    "_skipLibCheck": true
+    "skipLibCheck": true
   }
 }
